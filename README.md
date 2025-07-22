@@ -1,8 +1,8 @@
-HI! I'm Vinícius Oliveira 🦾🦿
+Hi! I'm Vinícius Oliveira 
 ---
 
 🎯 **Future Data Engineer**  
 
-❤️🎲🆕🧑‍💻 Love for data, innovation and technology. 
+🎲🆕💻 Love for data, innovation and technology. 
 
 
