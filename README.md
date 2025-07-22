@@ -1,4 +1,4 @@
-Hi! I'm Vinícius Oliveira 
+Hi! I'm Vinícius 🤝
 ---
 
 🎯 **Future Data Engineer**  
