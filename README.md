@@ -8,6 +8,10 @@ Hi! I'm Vinícius 🤝
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-oliveira-rosa)
+
+---
+
 🌌 Explorer of the data universe, learning every day to transform information into something that really makes a difference.
 
 
